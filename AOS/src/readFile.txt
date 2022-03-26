@@ -1,0 +1,15 @@
+# Number of nodes in the system
+5
+
+# Node#    Hostname          Port#
+   0     dc01.utdallas.edu   5211
+   1     dc02.utdallas.edu   5212
+   2     dc03.utdallas.edu   5213
+   3     dc04.utdallas.edu   5214
+   4     dc05.utdallas.edu   5215 
+
+0	1	2	3	4
+1	2	3	4
+2	3	4
+3	4
+4

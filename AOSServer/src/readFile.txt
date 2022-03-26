@@ -1,0 +1,10 @@
+#Path
+/home/010/n/nx/nxe210001/Servers
+
+#Files
+3
+
+# Node#    Hostname          Port#
+   0     dc02.utdallas.edu   3223
+   1     dc03.utdallas.edu   3224
+   2     dc05.utdallas.edu   3225
